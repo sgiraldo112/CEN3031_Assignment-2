@@ -1,0 +1,39 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+body{
+	background-image: url("img/background.jpeg");
+}
+.jumbotron{
+	background-color:#9999ff;
+}
+
+.jumboTable{
+	background-color: #F4A460;
+}
+ .bottomTable{
+	overflow: auto;
+	background-color: #F4A460;
+ }
+
+.topTable {
+	overflow:hidden;
+	background-color: #9999ff;
+}
+
+.titleTag{
+	color: white;
+	font-weight: bold;
+}
+.theForm{
+	padding-top: 1cm;
+}
+.newListHeader{
+	font-weight:bold;
+	color: white;
+}
